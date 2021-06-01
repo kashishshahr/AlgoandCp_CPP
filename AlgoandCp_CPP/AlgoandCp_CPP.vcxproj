@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Binary_Search_trees.cpp" />
     <ClCompile Include="Binary_trees.cpp" />
+    <ClCompile Include="Graphs.cpp" />
     <ClCompile Include="Red_black_trees.cpp" />
   </ItemGroup>
   <ItemGroup>
