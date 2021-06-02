@@ -143,10 +143,12 @@
     <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="Class_Lib.cpp" />
     <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="RedBlackTree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="Graph.h" />
+    <ClInclude Include="RedBlackTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

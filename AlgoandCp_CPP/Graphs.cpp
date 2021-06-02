@@ -1,7 +1,7 @@
 #include "../Class_Lib/Graph.cpp"
 
 
-void main()
+void _main()
 {
 	Graph<string> AdjMatrixGraph(14);
 	Vertex<string>* root;
